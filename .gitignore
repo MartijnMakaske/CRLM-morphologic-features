@@ -1,0 +1,8 @@
+monai_whole_body_ct_model/
+CAIRO5_path_responseTRG__dec2023.xlsx
+model_output/
+wandb/
+models/
+__pycache__/
+training_data/
+
